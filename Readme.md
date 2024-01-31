@@ -1,4 +1,5 @@
-#  **<p align="center">Proyecto Grupal Final de Data Science</p>** 
+#  **<p align="center">Proyecto Grupal Final de Data Science</p>** <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marta-pedriel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/marta-pedriel?trk=profile-badge">Marta Pedriel</a></div>
+              
 
 <img src="2_Imagenes\1.jpg" width="1010" height="505">
 
