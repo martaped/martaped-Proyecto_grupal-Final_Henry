@@ -3,7 +3,8 @@
 <img src="2_Imagenes\1.jpg" width="1010" height="505">
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marta-pedriel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/marta-pedriel?trk=profile-badge">Marta Pedriel</a></div>
+              
 ## 🚀 *1. Requerimientos para el Proyecto*
 
 Proyecto grupal final de la **etapa de labs** de la carrera de Data Science de la academia SoyHenry.
